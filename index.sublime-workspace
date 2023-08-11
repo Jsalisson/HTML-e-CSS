@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cond",
+				"condicao1"
+			],
+			[
+				"int",
+				"int_n2"
+			],
+			[
+				"nu",
+				"numero_2"
+			],
+			[
+				"n",
+				"numero_1"
+			],
+			[
+				"f",
+				"formato_1"
+			],
+			[
+				"e",
+				"entrada_n"
+			],
+			[
+				"entrada",
+				"entrada_n"
+			],
+			[
+				"l",
+				"L_g"
+			],
+			[
+				"km",
+				"Km_t"
+			],
+			[
+				"km_",
+				"km_total"
+			],
+			[
+				"dis_cliente",
+				"Distancia_cliente_parada"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"pre",
+				"Preço_gasolina"
+			],
+			[
+				"dis",
+				"Distancia_parada_casa"
+			],
+			[
+				"d",
+				"Distancia_cliente_parada"
+			],
+			[
+				"dist",
+				"Distancia_parada_casa"
+			],
+			[
+				"p",
+				"Preço_gasolina"
+			],
+			[
+				"D",
+				"Distancia_ate_cliente"
+			],
+			[
+				"mola",
+				"mola_2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"disabel",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 106.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/alisson/Documents/GitHub/HTML-e-CSS/index.html",
+		"/C/Users/alisson/Documents/GitHub/HTML-e-CSS/index1.html",
+		"/C/Users/alisson/Downloads/Imagem.png",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/21_operadores_logicos.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/20.exercicio_op_de_comparacao.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/16_operadores_de_comparcao.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/14_if_elif_else_mais_detalhado.py",
+		"/C/Users/alisson/Documents/GitHub/Projeto_Augusto/cod_exemplo_grafos.py",
+		"/C/Users/alisson/Documents/GitHub/Projeto_Augusto/teste_maps.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/13_operadores_condicionais.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/12_input_para_coletar_dados.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/11_.format.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/Exercicios/exercício_1_IMC.py",
+		"/C/Users/alisson/Documents/GitHub/python_basico_avancado/aulas/11 .format",
+		"/C/Users/alisson/Desktop/12.py",
+		"/C/Users/alisson/Desktop/12",
+		"/C/Users/alisson/Documents/GitHub/grafos.augusto/mysql/venv/Scripts/qw.py",
+		"/C/Users/alisson/Documents/GitHub/grafos.augusto/mysql/venv/Include/qw.py",
+		"/C/Users/alisson/Documents/GitHub/grafos.augusto/mysql/venv/qw.py",
+		"/C/Users/alisson/Documents/GitHub/grafos/teste-1/virtualaugusto/grafos.py",
+		"/C/Users/alisson/Documents/teste.py",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/alisson/Documents/GitHub/estoque/index1.py",
+		"/C/Users/alisson/Desktop/Nova pasta/projeto joão concluído/quimica.py",
+		"/C/Users/alisson/Documents/GitHub/estoque/projeto/settings.py",
+		"/C/Users/alisson/Documents/GitHub/estoque/env_gen.py",
+		"/C/Users/alisson/Documents/GitHub/estoque/.env",
+		"/C/Users/alisson/Documents/GitHub/estoque/.gitignore",
+		"/C/Users/alisson/Documents/GitHub/estoque/README.md",
+		"/E/projeto joão concluído/quimica.py",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/alisson/Documents/GitHub/quimica.py/quimica.py",
+		"/C/Users/alisson/Documents/GitHub/iris.py",
+		"/C/Users/alisson/Documents/GitHub/teste.py",
+		"/C/Users/alisson/Documents/GitHub/quimica.py/iris.py",
+		"/C/Users/alisson/Documents/GitHub/quimica.py/brincando.py",
+		"/C/Users/alisson/Documents/GitHub/quimica.py/teste de notação.py",
+		"/C/Users/alisson/Desktop/quimica.py",
+		"/C/Users/alisson/Documents/GitHub/quimica.py/teste.py",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/alisson/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
