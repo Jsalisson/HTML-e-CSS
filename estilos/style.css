@@ -4,10 +4,19 @@
 
 
 :root {
+
+  /* paleta de cor que gostei
+  --cor-primaria:#000000;
+  --cor-secundaria:#E3CCAE;
+  --cor-terciaria:#B8621B;
+  --cor-hover:#262A56;*/
+
+  
   --cor-primaria:#000000;
   --cor-secundaria:#f6f6f6;
   --cor-terciaria:#22d4fd;
   --cor-hover:#272727;
+
   --fonte-primaria: 'Krona One', sans-serif;
   --fonte-secundaria:'Montserrat', sans-serif;
 }
@@ -36,7 +45,7 @@ body {
   font-family: var(--fonte-secundaria);
   font-weight: 600;
   font-size: 24px;
-  color:#22d4fd;
+  color:var(--cor-terciaria);
   text-decoration: none;
 }
 
@@ -78,7 +87,7 @@ body {
   font-size: 20px;
   font-family: var(--fonte-secundaria);
   text-align: left;
-  padding: 5px;
+  padding: 5px;}
 
 .apresentacao_links {
   display: flex;
