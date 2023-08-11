@@ -44,33 +44,30 @@ body {
 .cabecalho-menu-link{
   font-family: var(--fonte-secundaria);
   font-weight: 600;
-  font-size: 24px;
+  font-size: 1.5rem;
   color:var(--cor-terciaria);
   text-decoration: none;
 }
-
 
 .apresentacao {
   padding: 5% 15%;
   display:flex;
   align-items: center;
   justify-content: space-between;
+  gap: 82px;
 }
 
 .apresentacao_conteudo {
-  width: 615px;
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 10px;
   padding-right: 10px;
 }
 
-
 .apresentacao_conteudo_titulo {
   font-size: 1.62rem;
   font-family: var(--fonte-primaria);
-  
-  ;
 }
 
 .titulo-destaque {
@@ -78,13 +75,13 @@ body {
 }
 
 .apresentacao_conteudo_texto {
-  font-size: 24px;
+  font-size: 1.5rem;
   font-family: var(--fonte-secundaria);
   text-align: left;
 }
 
 .apresentacao_conteudo_texto-sobre-mim {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-family: var(--fonte-secundaria);
   text-align: left;
   padding: 5px;}
@@ -99,17 +96,17 @@ body {
 .apresentacao_links_subtitulo{
 	font-family: var(--fonte-primaria);
 	font-weight: 400;
-	font-size: 24px;
+	font-size: 1.5rem;
 }
 
-.apresentacao_links_links {
+.apresentacao_links_navegacao {
   display: flex;
   justify-content: center;
   gap: 16px;
-  width: 378px;
+  width: 50%;
   text-align: center;
   border-radius: 8px;
-  font-size: 24px;
+  font-size: 1.5rem;
   padding: 21.5px 0px;
   text-decoration: none;
   color: var(--cor-secundaria);
@@ -118,16 +115,42 @@ body {
   font-family: var(--fonte-secundaria);
 
 }
-.apresentacao_links_links:hover {
+.apresentacao_links_navegacao:hover {
 	background-color: var(--cor-hover);
 }
 
+.apresentacao-imagem{
+  width:  50%;
+
+}
 .roda-pe {
 	font-family: var(--fonte-secundaria);
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-weight: 400;
 	text-align: center;
 	padding: 14px;
 	color: var(--cor-primaria);
 	background-color: var(--cor-terciaria);
+}
+
+@media (max-width: 1200px){
+
+  .cabecalho{
+    padding: 6%;
+  }
+
+  .cabecalho-menu{
+    justify-content: center;
+  }
+
+  .apresentacao{
+    flex-direction: column-reverse;
+    padding: 5%;
+
+  }
+  .apresentacao_conteudo{
+    width: auto;
+  }
+  }
+
 }
