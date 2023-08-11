@@ -67,9 +67,9 @@ body {
 
 
 .apresentacao_conteudo_titulo {
-  font-size: 26px;
+  font-size: 1.62rem;
   font-family: var(--fonte-primaria);
-  text-align: left;
+  
   ;
 }
 
